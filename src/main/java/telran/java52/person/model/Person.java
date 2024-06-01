@@ -27,4 +27,6 @@ public class Person implements Serializable {
 	@Setter
 //	@Embedded
 	Address address;
+	
+	
 }
